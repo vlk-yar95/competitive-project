@@ -18,3 +18,10 @@
   src: url(./Inter-Black.woff2);
   font-weight: 900;
 }
+
+@font-face {
+  font-family: Montserrat;
+  src: url(./Montserrat-Bold.woff);
+  src: url(./Montserrat-Bold.woff2);
+  font-weight: 600;
+}
