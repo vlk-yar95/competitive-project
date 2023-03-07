@@ -1,0 +1,12 @@
+.houses__subtitle {
+    padding: 24px 0 32px;
+    margin: 0 auto;
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #848FAC;
+    text-align: center;
+    max-width: 588px;
+    width: 100%;
+}

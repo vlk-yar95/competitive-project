@@ -6,3 +6,13 @@
 @import url(../blocks/interiors/__item/interiors__item.css);
 @import url(../blocks/interiors/__gallery/interiors__gallery.css);
 @import url(../blocks/interiors/__item/_size/interiors__item_size_big.css);
+@import url(../blocks/houses/houses.css);
+@import url(../blocks/houses/__title/houses__title.css);
+@import url(../blocks/houses/__subtitle/houses__subtitle.css);
+@import url(../blocks/houses/__list/houses__list.css);
+@import url(../blocks/houses/__link/houses__link.css);
+@import url(../blocks/houses/__item/houses__item.css);
+@import url(../blocks/houses/__item-title/houses__item-title.css);
+@import url(../blocks/houses/__item-subtitle/houses__item-subtitle.css);
+@import url(../blocks/houses/__image/houses__image.css);
+@import url(../blocks/houses/__button/houses__button.css);

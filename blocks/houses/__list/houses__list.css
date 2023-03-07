@@ -1,0 +1,7 @@
+.houses__list {
+    list-style-type: none;
+    padding-top: 88px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
