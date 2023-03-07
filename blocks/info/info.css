@@ -1,0 +1,8 @@
+.info {
+  margin: 0 auto;
+	display: grid;
+	grid-template-columns: minmax(auto, 384px) minmax(auto, 690px);
+  column-gap: 126px;
+  max-width: 100%;
+  margin-top: 160px;
+}

@@ -1,0 +1,17 @@
+.lead__button {
+  margin: 0;
+  padding: 0;
+  background-image: url(../../../image/booking_button.png);
+  background-repeat: no-repeat;
+  width: 180px;
+  height: 51px;
+  margin-top: 59px;
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__button {
+    margin: 0 auto;
+    max-width: calc(100% - 80px*2);
+    margin-top: 30px;
+  }
+}

@@ -21,7 +21,14 @@
 
 @font-face {
   font-family: Montserrat;
-  src: url(./Montserrat-Bold.woff);
-  src: url(./Montserrat-Bold.woff2);
+  src: url(./Montserrat-SemiBold.woff);
+  src: url(./Montserrat-SemiBold.woff2);
   font-weight: 600;
+}
+
+@font-face {
+  font-family: inter;
+  src: url(./Inter-Medium.woff);
+  src: url(./Inter-Medium.woff2);
+  font-weight: 500;
 }

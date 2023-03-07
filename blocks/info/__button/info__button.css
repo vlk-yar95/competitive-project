@@ -1,0 +1,8 @@
+.info__button {
+  background-image: url(../../../image/button_details.png);
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  width: 153px;
+  height: 51px;
+}
