@@ -6,3 +6,7 @@
   padding: 0;
   border-radius: 50%;
 }
+
+.reviews__button:hover {
+  cursor: pointer;
+}
