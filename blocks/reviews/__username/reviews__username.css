@@ -1,0 +1,10 @@
+.reviews__username {
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #192252;
+  text-align: center;
+  margin: 0;
+  padding-top: 40px;
+}

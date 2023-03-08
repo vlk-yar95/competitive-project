@@ -25,3 +25,10 @@
   src: url(./Montserrat-Bold.woff2);
   font-weight: 600;
 }
+
+@font-face {
+  font-family: inter;
+  src: url(./Inter-Medium.woff);
+  src: url(./Inter-Medium.woff2);
+  font-weight: 500;
+}

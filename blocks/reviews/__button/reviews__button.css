@@ -1,0 +1,8 @@
+.reviews__button {
+  background: rgba(250, 176, 71, 0.35);
+  border: none;
+  width: 8px;
+  height: 8px;
+  padding: 0;
+  border-radius: 50%;
+}
