@@ -1,0 +1,15 @@
+.lead__photo-item {
+  object-fit: contain;
+  padding-bottom: 97px;
+  width: 100%;
+}
+
+.lead__photo-item:nth-of-type(2n) {
+  padding-bottom: 16px;
+}
+
+@media screen and (max-width: 600px) {
+  .lead__photo-item {
+    width: 100%;
+  }
+}

@@ -1,0 +1,7 @@
+.enlargement {
+  transition: 1s;
+}
+
+.enlargement:hover {
+  transform: scale(1.1);
+}
