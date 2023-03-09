@@ -1,11 +1,11 @@
-.info__image {
+.benefit__image {
   width: 100%;
   object-fit: contain;
   margin: 0 auto;
 }
 
 @media screen and (max-width: 767px) {
-  .info__image {
+  .benefit__image {
     width: calc(100% - 20px*2);
     max-width: 100%;
   }
