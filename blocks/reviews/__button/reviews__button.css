@@ -10,3 +10,10 @@
 .reviews__button:hover {
   cursor: pointer;
 }
+
+@media screen and (max-width:767px) {
+  .reviews__button{
+    width: 5px;
+    height: 5px;
+  }
+}

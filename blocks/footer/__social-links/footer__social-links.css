@@ -3,4 +3,11 @@
   display: flex;
   gap: 20px;
   padding: 39px 0 0;
+  margin: 0;
+}
+
+@media screen and (max-width:767px) {
+  .footer__social-links {
+    padding: 18px 0 0;
+  }
 }

@@ -15,3 +15,11 @@
     line-height: 1.2;
   }
 }
+
+@media screen and (max-width:1023px) {
+  .houses__item-title {
+    padding-top: 18px;
+    font-size: 16px;
+    line-height: 1;
+  }
+}

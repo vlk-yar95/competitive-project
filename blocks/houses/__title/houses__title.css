@@ -14,3 +14,9 @@
     line-height: 1.2;
   }
 }
+
+@media screen and (max-width:767px) {
+  .houses__title {
+    font-size: 18px;
+  }
+}

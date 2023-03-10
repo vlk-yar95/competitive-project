@@ -13,3 +13,12 @@
     padding: 58px 0 0;
   } 
 }
+
+@media screen and (max-width:767px){
+  .houses__list {
+    gap: 25px;
+    padding: 25px 0 0;
+    flex-direction: column;
+    margin: 0 auto;
+  } 
+}

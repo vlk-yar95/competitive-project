@@ -10,3 +10,16 @@
     max-width: 250px;
   }
 }
+
+@media screen and (max-width:1023px) {
+  .houses__item {
+    max-width: 200px;
+  }
+}
+
+@media screen and (max-width:767px) {
+  .houses__item {
+    flex-direction: column;
+    margin: 0 auto;
+  }
+}

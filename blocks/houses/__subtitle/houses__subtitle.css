@@ -1,12 +1,32 @@
 .houses__subtitle {
-    padding: 24px 0 32px;
-    margin: 0 auto;
-    font-family: 'Inter', Arial, sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 1.5;
-    color: #848FAC;
-    text-align: center;
-    max-width: 588px;
-    width: 100%;
+  padding: 24px 0 32px;
+  margin: 0 auto;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #848FAC;
+  text-align: center;
+  max-width: 588px;
+  width: 100%;
+}
+
+@media screen and (max-width:1279px) {
+  .houses__subtitle {
+    font-size: 16px;
+  }  
+}
+
+@media screen and (max-width:1023px) {
+  .houses__subtitle {
+    line-height: 1.2;
+    max-width: 468px;
+  }  
+}
+
+@media screen and (max-width:1023px) {
+  .houses__subtitle {
+    font-size: 12px;
+    max-width: 300px;
+  }  
 }

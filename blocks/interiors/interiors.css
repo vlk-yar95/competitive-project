@@ -5,6 +5,11 @@
 @media screen and (max-width:1279px) {
   .interiors {
     padding-top: 60px;
-  }
-  
+  } 
+}
+
+@media screen and (max-width:1023px) {
+  .interiors {
+    padding-top: 40px;
+  } 
 }
