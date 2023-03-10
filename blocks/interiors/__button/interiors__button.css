@@ -4,4 +4,9 @@
   height: 8px;
   border-radius: 50%;
   border: 0;
+  padding: 0;
+}
+
+.interiors__button {
+  cursor: pointer;
 }
