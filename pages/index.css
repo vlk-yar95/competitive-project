@@ -30,3 +30,11 @@
 @import url(../blocks/button/button.css);
 @import url(../blocks/blur/blur.css);
 @import url(../blocks/enlargement/enlargement.css);
+@import url(../blocks/interiors/interiors.css);
+@import url(../blocks/interiors/__title/interiors__title.css);
+@import url(../blocks/interiors/__item/interiors__item.css);
+@import url(../blocks/interiors/__gallery/interiors__gallery.css);
+@import url(../blocks/interiors/__item/_size/interiors__item_size_big.css);
+@import url(../blocks/interiors/__button/interiors__button.css);
+@import url(../blocks/interiors/__button/_active/interiors__button_active.css);
+@import url(../blocks/interiors/__button-group/interiors__button-group.css);
