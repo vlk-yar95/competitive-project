@@ -1,0 +1,8 @@
+.interiors__button-group {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  position: absolute;
+  top: 585px;
+  left: 510px;
+}
