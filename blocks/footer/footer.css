@@ -1,8 +1,13 @@
 .footer {
   max-width: 1200px;
-  width: 100%;
   background-color: #0b265a;
   padding: 116px 120px 120px;
   display: flex;
   justify-content: space-between;
+}
+
+@media screen  and (max-width:1279px){
+  .footer {
+    padding: 76px 80px 80px;
+  }
 }

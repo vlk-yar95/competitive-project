@@ -1,4 +1,14 @@
 .interiors__item_size_big {
-    grid-column: 1/2;
-    grid-row: 1/6;
+  grid-column: 1/2;
+  grid-row: 1/6;
+}
+
+@media screen and (max-width:1279px){
+  .interiors__item_size_big {
+    grid-column: 1/4;
+    grid-row: 1/2;
+    max-width: 1032px;
+    width: 100%;
+  }
+  
 }

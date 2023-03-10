@@ -1,8 +1,15 @@
 .houses__list {
-    list-style-type: none;
-    padding-top: 88px;
-    display: flex;
-    justify-content: center;
-    gap: 24px;
-    margin: 0;
+  list-style-type: none;
+  padding: 88px 0 0;
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin: 0;
+}
+
+@media screen and (max-width:1279px){
+  .houses__list {
+    gap: 18px;
+    padding: 58px 0 0;
+  } 
 }

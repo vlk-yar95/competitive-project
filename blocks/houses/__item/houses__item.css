@@ -1,6 +1,12 @@
 .houses__item {
-    max-width: 384px;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
+  max-width: 384px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width:1279px) {
+  .houses__item {
+    max-width: 250px;
+  }
 }

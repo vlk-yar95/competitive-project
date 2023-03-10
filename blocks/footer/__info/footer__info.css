@@ -1,3 +1,9 @@
 .footer__info {
   flex-basis: 564px;
 }
+
+@media screen and (max-width:1279px) {
+  .footer__info {
+    flex-basis: 0;
+  }
+}

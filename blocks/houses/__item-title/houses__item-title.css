@@ -1,9 +1,17 @@
 .houses__item-title {
-    margin: 0;
-    font-family: 'Montserrat', Arial, sans-serif;
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 1.5;
-    color: #000000;
-    padding-top: 32px;
+  margin: 0;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #000000;
+  padding-top: 32px;
+}
+
+@media screen and (max-width:1279px) {
+  .houses__item-title {
+    padding-top: 27px;
+    font-size: 18px;
+    line-height: 1.2;
+  }
 }

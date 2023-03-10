@@ -6,3 +6,10 @@
   top: 585px;
   left: 510px;
 }
+
+@media screen and (max-width:1279px) {
+  .interiors__button-group {
+    top: 560px;
+    left: 480px;
+  }
+}
