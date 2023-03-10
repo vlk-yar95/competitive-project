@@ -12,3 +12,8 @@
   line-height: 19px;
   border-radius: 4px;
 }
+
+.houses__button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
