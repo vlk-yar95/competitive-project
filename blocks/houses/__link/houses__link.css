@@ -1,0 +1,10 @@
+.houses__link {
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #424F7B;
+    text-decoration: none;
+    margin-top: auto;
+    padding-top: 32px;
+}
