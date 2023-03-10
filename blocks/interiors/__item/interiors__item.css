@@ -1,0 +1,7 @@
+@media screen and (max-width:1023px){
+  .interiors__item {
+    max-width: 256px;
+    width: 100%;
+    max-height: 145px;
+  }
+}

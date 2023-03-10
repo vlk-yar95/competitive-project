@@ -11,3 +11,11 @@
     width: 100%;
   }
 }
+
+@media screen and (max-width:1023px){
+  .interiors__item_size_big {
+    max-width: 768px;
+    max-height: 320px;
+    height: 100%;
+  }
+}

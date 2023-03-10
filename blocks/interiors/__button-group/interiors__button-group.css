@@ -13,3 +13,10 @@
     left: 480px;
   }
 }
+
+@media screen and (max-width:1023px) {
+  .interiors__button-group {
+    top: 330px;
+    left: 350px;
+  }
+}
