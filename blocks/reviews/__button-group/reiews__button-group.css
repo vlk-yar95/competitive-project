@@ -1,0 +1,8 @@
+.reviews__button-group {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 24px;
+  gap: 12px;
+}

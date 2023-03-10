@@ -1,0 +1,11 @@
+.footer__text {
+  margin: 0;
+  color: #d9dbde;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.75;
+  max-width: 186px;
+  width: 100%;
+  padding-top: 13px;
+}
