@@ -15,7 +15,12 @@
 
 .houses__button:hover {
   cursor: pointer;
-  opacity: 0.8;
+  opacity: 0.9;
+  box-shadow: 0 0 12px #486a82;
+    -moz-box-shadow: 0 0 12px #486a82;
+    -o-box-shadow: 0 0 12px #486a82;
+    -ms-box-shadow: 0 0 12px #486a82;
+    -webkit-box-shadow: 0 0 12px #486a82;
 }
 
 @media screen and (max-width:1279px) {
