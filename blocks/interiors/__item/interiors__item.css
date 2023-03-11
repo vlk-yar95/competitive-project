@@ -1,14 +1,29 @@
+.interiors__item {
+  object-fit: cover;
+}
+
+/* @media screen and (max-width:1439px){
+  .interiors__item {
+    width: 
+  }
+} */
+
 @media screen and (max-width:1279px){
   .interiors__item {
-    max-width: 341px;
-    width: 100%;
+    grid-row: 1fr;
+    max-width: 334px;
   }
 }
 
+/* @media screen and (max-width:1090px){
+  .interiors__item {
+    max-width: 330px;
+  }
+} */
 
 @media screen and (max-width:1023px){
   .interiors__item {
-    max-width: 256px;
+    max-width: 250px;
     max-height: 145px;
   }
 }
