@@ -3,7 +3,7 @@
 	display: grid;
 	grid-template-columns: minmax(auto, 384px) minmax(auto, 690px);
   column-gap: 126px;
-  max-width: 100%;
+  width: calc(100% - 120px*2);
   margin-top: 160px;
   margin-bottom: 80px;
 }
@@ -28,7 +28,8 @@
   .info {
     display: flex;
     flex-direction: column;
-    margin-top: 40px;
+    margin-bottom: 0;
+    margin-top: 0;
   }
 }
 

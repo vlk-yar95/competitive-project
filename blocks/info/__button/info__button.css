@@ -1,10 +1,27 @@
 .info__button {
-  background-image: url(../../../image/button_details.png);
-  margin: 0;
-  padding: 0;
-  background-repeat: no-repeat;
+  background-color: #0e1734;
+  display: block;
+  margin: 0 auto;
+  padding: 16px 32px;
   width: 153px;
   height: 51px;
+  color: #fff;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  border-radius: 4px;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width:1279px) {
+  .info__button {
+    width: 136px;
+    height: 45px;
+    font-size: 14px;
+    line-height: 1;
+  }
 }
 
 @media screen and (max-width: 1023px) {
@@ -12,11 +29,19 @@
     margin: 0 auto;
     max-width: calc(100% - 80px*2);
     margin-top: 30px;
+    width: 120px;
+    height: 38px;
+    padding: 4px 12px;
+    font-size: 12px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .info__button {
     max-width: calc(100% - 20px*2);
+    width: 100px;
+    height: 30px;
+    padding: 2px 8px;
+    font-size: 12px;
   }
 }

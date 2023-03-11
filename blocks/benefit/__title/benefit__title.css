@@ -31,7 +31,9 @@
     line-height: 24px;
     max-width: calc(100% - 80px*2);
     margin-bottom: 20px;
-    margin-top: 40px;
+  }
+  .benefit__title:last-of-type {
+    margin-top: 30px;
   }
 }
 
