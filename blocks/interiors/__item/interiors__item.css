@@ -5,3 +5,9 @@
     max-height: 145px;
   }
 }
+
+@media screen and (max-width:767px){
+  .interiors__item {
+    max-width: 106px;
+  }
+}

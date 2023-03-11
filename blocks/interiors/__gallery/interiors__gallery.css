@@ -26,3 +26,11 @@
     padding-bottom: 40px;
   }
 }
+
+@media screen and (max-width:767px) {
+  .interiors__gallery {
+    max-width: 320px;
+    max-height: 232px;
+    padding-bottom: 0;
+  }
+}

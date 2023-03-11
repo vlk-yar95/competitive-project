@@ -19,3 +19,9 @@
     height: 100%;
   }
 }
+
+@media screen and (max-width:768px){
+  .interiors__item_size_big {
+    max-width: 320px;
+  }
+}

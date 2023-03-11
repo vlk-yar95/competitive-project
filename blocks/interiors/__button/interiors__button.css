@@ -10,3 +10,10 @@
 .interiors__button {
   cursor: pointer;
 }
+
+@media screen and (max-width:767px) {
+  .interiors__button {
+    width: 5px;
+    height: 5px;
+  }
+}
