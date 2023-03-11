@@ -1,25 +1,15 @@
-.interiors__item {
-  object-fit: cover;
-}
-
-/* @media screen and (max-width:1439px){
+@media screen and (max-width:1439px){
   .interiors__item {
-    width: 
+    width: 250px;
+    height: 170px;
   }
-} */
+}
 
 @media screen and (max-width:1279px){
   .interiors__item {
-    grid-row: 1fr;
-    max-width: 334px;
+    width: 330px;
   }
 }
-
-/* @media screen and (max-width:1090px){
-  .interiors__item {
-    max-width: 330px;
-  }
-} */
 
 @media screen and (max-width:1023px){
   .interiors__item {

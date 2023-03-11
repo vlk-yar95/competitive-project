@@ -3,10 +3,17 @@
   grid-row: 1/6;
 }
 
+@media screen and (max-width:1439px){
+  .interiors__item_size_big {
+    width: 950px;
+    height: 510px;
+  }
+}
+
+
 @media screen and (max-width:1279px){
   .interiors__item_size_big {
     grid-column: 1/4;
-    grid-row: 2fr;
     max-width: 1020px;
     width: 100%;
   }
