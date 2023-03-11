@@ -3,23 +3,18 @@
   grid-row: 1/6;
 }
 
-@media screen and (max-width:1439px){
-  .interiors__item_size_big {
-    grid-column: 1/4;
-    grid-row: 1/2;
-  }
-}
-
 @media screen and (max-width:1279px){
   .interiors__item_size_big {
-    max-width: 1023px;
+    grid-column: 1/4;
+    grid-row: 2fr;
+    max-width: 1020px;
     width: 100%;
   }
 }
 
 @media screen and (max-width:1023px){
   .interiors__item_size_big {
-    max-width: 768px;
+    max-width: 750px;
     max-height: 320px;
     height: 100%;
   }
